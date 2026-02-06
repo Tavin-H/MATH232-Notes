@@ -1,4 +1,3 @@
-
 <big>Method 1</big>
 "Reflection across a given line"
 use e<sub>1</sub> and e<sub>2</sub> to find the matrix columns individually
