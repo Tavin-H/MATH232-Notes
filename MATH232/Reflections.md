@@ -51,8 +51,30 @@ $$
 if an angle in radians is given then you can use the standard 2x2 rotation matrix:
 $$
 Ref(x) = x\begin{bmatrix}
-\cos \theta & -\sin \theta \\
-\sin \theta & \cos \theta
+\cos 2\theta & \sin 2\theta \\
+\sin 2\theta & -\cos 2\theta
 \end{bmatrix}
 $$
+<big><u>Easy Reflections</u></big>
 
+1. Reflection across x axis:
+$$
+A = \begin{bmatrix}
+1 & 0 \\
+0 & -1
+\end{bmatrix}
+$$
+2. Reflection across y axis:
+$$
+A = \begin{bmatrix}
+-1 & 0 \\
+0 & 1
+\end{bmatrix}
+$$
+3. Reflection across y = x
+$$
+A = \begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}
+$$
