@@ -1,5 +1,3 @@
-This is your new *vault*.
+These are Tavin Hartwoods notes for MATH232 (Applied Linear Algebra) 
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+Go to [[Table of Contents]] to find what you are looking for!
