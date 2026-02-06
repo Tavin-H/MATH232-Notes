@@ -31,7 +31,7 @@ $$
 \end{align}
 $$
 This may simplify the calculation or make it easier to remember
-see [[Projection]] to calculate Proj<sub>n</sub>(x)
+see [[Projection & Perpendicular]] to calculate Proj<sub>n</sub>(x)
 
 <big>Method 1.5 </big>
 This is a simplification of Method 1. However, in my opinion it's a bit harder to memorize:

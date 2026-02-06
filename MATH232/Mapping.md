@@ -132,3 +132,54 @@ This can also be applied to any multiple of $x$ and $y$ like so:
 $$
 f_{A}(t\vec{x} + s\vec{y}) = tf_{A}(\vec{x}) + sf_{A}(\vec{y})
 $$
+
+<big><u>Composition of Mappings</u></big>
+Mapping functions can be composed like so:
+$$
+f_{A} \circ f_{B} = BA
+$$
+For a composition to be defined, the domain of B must match the codomain of A. 
+e.g. if $B$ is an $n$ x $m$  matrix, then $A$ must be an $m$ x $p$ matrix
+
+Example of a defined composition:
+$$
+\begin{align}
+
+ A = \begin{bmatrix}
+0 & 2 & 1 \\
+0 & 0 & -1
+\end{bmatrix} \quad
+B = \begin{bmatrix}
+3 & -1
+\end{bmatrix}  \\ \\
+f_{A} \circ f_{B} = BA = \begin{bmatrix}
+3 & -1
+\end{bmatrix}\begin{bmatrix}
+0 & 2 & 1 \\
+0 & 0 & -1
+\end{bmatrix}
+\end{align}
+$$
+Example of an undefined composition:
+$$
+\begin{align}
+
+A = \begin{bmatrix}
+3 & 1 \\
+0 & 1\end{bmatrix} \quad B= \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix} \\
+ \\
+f_{A} \circ f_{B} = BA = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix} \begin{bmatrix}
+3 & 1 \\
+0 & 1\end{bmatrix}
+\end{align}
+$$
+The domain of B is 3 and the codomain of A is 2 so the composition is <u>Not defined</u>
+This is because of the rules of [[Matrix Multiplication]].
