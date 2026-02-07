@@ -1,5 +1,5 @@
 <big><u>Row Space</u></big>
-To find the basis of a Row space, first take the RREF of the matrix
+To find the basis of a Row space, first take the [[RREF]] of the matrix
 $$
 \begin{bmatrix}
 1 & 2 & -1 & 4 \\

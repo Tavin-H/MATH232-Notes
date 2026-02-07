@@ -1,5 +1,4 @@
 To cover:
 - mmmm spammm
-- How it relates to subspace
+- How the two topics are related
 - checking if a vector is in a given span / subspace
-- 

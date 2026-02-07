@@ -67,14 +67,10 @@
             "id": "e555d43da00a78bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inverses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inverses"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -83,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapping.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapping"
+              "title": "Welcome"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,23 +250,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "e555d43da00a78bb",
+  "active": "510bef1d6818b691",
   "lastOpenFiles": [
-    "Mapping.md",
-    "Inverses.md",
-    "Linear Systems.md",
-    "Matrix Multiplication.md",
-    "Projection & Perpendicular.md",
-    "Linear Independence.md",
     "Transpose.md",
-    "Basic Vector Operations.md",
-    "Basis.md",
-    "Homogeneous Systems.md",
-    "Reflections.md",
-    "RREF.md",
-    "Normal Vector.md",
-    "Projection.md",
     "Table of Contents.md",
+    "Special Subspaces.md",
+    "Span & Subspace.md",
+    "RREF.md",
+    "Reflections.md",
+    "Projection & Perpendicular.md",
+    "Normal Vector.md",
+    "Matrix Multiplication.md",
+    "Mapping.md",
+    "Linear Independence.md",
+    "Linear Systems.md",
+    "Homogeneous Systems.md",
+    "Basis.md",
+    "Basic Vector Operations.md",
+    "Inverses.md",
+    "Subspace.md",
+    "Projection.md",
     "Welcome.md"
   ]
 }
