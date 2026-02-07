@@ -1,3 +1,4 @@
+Pg 36 in notes
 To cover:
 - Scalar equation for a plane
 - Vector equation for a plane? Idk if that's relevant
