@@ -1,6 +1,6 @@
 # MATH232-Notes
 ## About
-These are lecture notes from MATH 232 (Applied Linear Algebra) at Simon Fraser University
+These are lecture notes from MATH 232 (Applied Linear Algebra) at Simon Fraser University <br/>
 These are developed with Obsidian and LaTeX by the following contributors:
 - Tavin Hartwood
 - Nathan Jacobson
