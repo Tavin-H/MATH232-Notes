@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH232/Basic Vocabulary.md",
+                "file": "MATH232/Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Vocabulary"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -185,27 +185,28 @@
   },
   "active": "8c1abd7b7b64a07f",
   "lastOpenFiles": [
+    "MATH232/Applications.md",
+    "MATH232/Table of Contents.md",
+    "MATH232/Subspace.md",
+    "MATH232/Linear Systems.md",
+    "MATH232/RREF.md",
+    "MATH232/Special Subspaces.md",
+    "MATH232/Homogeneous Systems.md",
+    "MATH232/Normal Vector.md",
+    "MATH232/Basic Vocabulary.md",
     "MATH232/Basis.md",
     "MATH232/Closure Properties.md",
-    "MATH232/Homogeneous Systems.md",
     "MATH232/Inverses.md",
     "MATH232/Linear Combination.md",
     "MATH232/Linear Independence.md",
-    "MATH232/Linear Systems.md",
     "MATH232/Lines and Planes.md",
     "MATH232/Mapping.md",
     "MATH232/Matrix Multiplication.md",
-    "MATH232/Normal Vector.md",
     "MATH232/Projection & Perpendicular.md",
     "MATH232/Reflections.md",
-    "MATH232/RREF.md",
     "MATH232/Span.md",
-    "MATH232/Table of Contents.md",
-    "MATH232/Subspace.md",
-    "MATH232/Special Subspaces.md",
     "MATH232/Transpose.md",
     "MATH232/Welcome.md",
-    "MATH232/Basic Vocabulary.md",
     "MATH232/Basic Vector Operations.md",
     "README.md",
     "MATH232/Projection.md"

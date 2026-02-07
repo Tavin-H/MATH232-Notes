@@ -1,3 +1,4 @@
-links to [[Vector Space]] (which isnt on midterm 1)
-mention about similarity with [[Basis]] and give an attempt at differentiating them
-definition of a [[Basis]] of a Subspace
+- links to [[Vector Space]] (which isnt on midterm 1)
+- mention about similarity with [[Basis]] and give an attempt at differentiating them
+- definition of a [[Basis]] of a Subspace
+- dimension

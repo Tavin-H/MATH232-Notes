@@ -11,7 +11,9 @@
 - [[Closure Properties]] (not started)
 - [[Projection & Perpendicular]] (done but needs examples/clarification/introduction)
 <big>Section 2:</big>
-- 
+- [[Linear Systems]] (not started)
+- [[RREF]] (not started)
+- [[Applications]] (not started)
 <big>Section 3:</big>
 - [[Mapping]]
 - [[Reflections]]
