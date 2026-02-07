@@ -1,1 +1,0 @@
-lmao this sh*t empty nerd

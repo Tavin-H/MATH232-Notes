@@ -73,6 +73,8 @@ f_{A}\begin{bmatrix}
 $$
 *Note:* the images of the standard basis vectors will result in the columns of $A$
 
+
+
 <u><big>Standard Matrix Mapping</big></u>
 let $L$ be defined as:
 
@@ -107,6 +109,8 @@ $$
 $$
 This is the Standard Matrix Mapping
 
+
+
 <u><big>Domain & Codomain</big></u>
 let $A$ be a matrix with $m$ rows and $n$ columns
 $$
@@ -123,6 +127,8 @@ $$
 This can be seen from Example 1.1 in Notation
 *Remember:* domain = columns, codomain = rows.
 
+
+
 <u><big>Linear Mapping</big></u>
 A linear mapping is defined as:
 $$
@@ -132,6 +138,8 @@ This can also be applied to any multiple of $x$ and $y$ like so:
 $$
 f_{A}(t\vec{x} + s\vec{y}) = tf_{A}(\vec{x}) + sf_{A}(\vec{y})
 $$
+
+
 
 <big><u>Composition of Mappings</u></big>
 Mapping functions can be composed like so:
@@ -183,3 +191,25 @@ f_{A} \circ f_{B} = BA = \begin{bmatrix}
 $$
 The domain of B is 3 and the codomain of A is 2 so the composition is <u>Not defined</u>
 This is because of the rules of [[Matrix Multiplication]].
+
+
+
+<u><big>Inverse Linear Mappings</big></u>
+If a linear mapping $T: R^n \to R^n$ is associated with an invertible matrix A, then the mapping for itself is Invertible. The inverse mapping $T^{-1}$ 'undoes' the action of $T$. The standard matrix for $T^{-1}$ is simply $A^{-1}$.
+Example:
+$$
+\begin{align}
+
+L(x_{1}, x_{2}) = (x_{A} + 2x_{2}, -x_{1} + 3x_{2}) \\ \\
+A = \begin{bmatrix}
+1 & 2 \\
+-1 & 3
+\end{bmatrix} \quad\quad\quad\quad \\ \\
+[L^{-1}] = \begin{bmatrix}
+\frac{3}{5} & -\frac{2}{5} \\
+\frac{1}{5} & \frac{1}{5}
+\end{bmatrix}\quad\quad\quad
+\end{align}
+
+$$
+(please refer to [[Inverses]] to do this operation yourself)
