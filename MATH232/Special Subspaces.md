@@ -1,3 +1,4 @@
+- range explanation
 <big><u>Row Space</u></big>
 To find the basis of a Row space, first take the [[RREF]] of the matrix
 $$
@@ -51,7 +52,7 @@ Columnspace = \left\{
 \end{bmatrix}
 \right\}
 $$
-<big><u>Null Space</u></big>
+<big><u>Nullspace/Kernel</u></big>
 looking at the RREF, solve for $x$<sub>1</sub> and $x$<sub>2</sub> in terms of the free variables:
 let $x$<sub>3</sub> = $t$ and $x$<sub>4</sub> = $s$
 $$
@@ -76,3 +77,6 @@ t\end{bmatrix} = s\begin{bmatrix}
 $$
 According to the rank nullity theorem, the rank of the matrix + the nullity of the matrix add up to the number of columns.
 This can also be thought of as # of columns in Column Space + # of Columns in Null Space = # of Columns total.
+- left nullspace mention
+- [[Subspace]] dimension link to explain the Dimension of Fundamental Subspaces
+- Fundamental theorem of algebra

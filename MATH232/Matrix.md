@@ -1,0 +1,10 @@
+- definition as written in sec 3.1
+- row/column basic explanation
+- Special matrices:
+	- square matrix
+	- diagonal matrix
+	- lower/upper triangular
+	- symmetric
+- basic matrix arithmetic
+- show how [[Linear Independence]] can be applied to matrices the same way
+- same with [[Span]]

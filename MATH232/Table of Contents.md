@@ -15,5 +15,13 @@
 - [[RREF]] (not started)
 - [[Applications]] (not started)
 <big>Section 3:</big>
-- [[Mapping]]
-- [[Reflections]]
+- [[Matrix]] (not started)
+- [[Matrix Multiplication]] (done)
+- [[Transpose]] (done)
+- [[Mapping]] (done)
+- [[Geometric Transformations]] (not done)
+- [[Reflections]] (done)
+- [[Special Subspaces]] (needs a couple additions)
+- [[Inverses]] (done)
+<big>Section 4:</big>
+- [[Vector Space]] (no need to start yet)
