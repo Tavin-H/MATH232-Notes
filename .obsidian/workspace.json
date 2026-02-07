@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "fa29c9049c32d97f",
+    "id": "2834344a69951f37",
     "type": "split",
     "children": [
       {
-        "id": "3b28a843b60df30b",
+        "id": "91617849fd4a749b",
         "type": "tabs",
         "children": [
           {
-            "id": "73a43ed195d92633",
+            "id": "e70d7bb6e8d13eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH232/Mapping.md",
+                "file": "MATH232/Basis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapping"
-            }
-          },
-          {
-            "id": "80055a6e65ed20b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH232/RREF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RREF"
-            }
-          },
-          {
-            "id": "a616fbad646d8161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH232/Homogeneous Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homogeneous Systems"
-            }
-          },
-          {
-            "id": "fa38db806cb2725d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH232/Homogeneous Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homogeneous Systems"
+              "title": "Basis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ca19cf2535b81998",
+    "id": "16a65fea9705ba20",
     "type": "split",
     "children": [
       {
-        "id": "ccddf566fd8d1221",
+        "id": "44955c4c4f1daea5",
         "type": "tabs",
         "children": [
           {
-            "id": "964f8ca5667f53cb",
+            "id": "b595b998c59ac378",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +48,7 @@
             }
           },
           {
-            "id": "6aadb47cb9dc5883",
+            "id": "975f286a57294df9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +65,7 @@
             }
           },
           {
-            "id": "b18ba29f35ec0ccf",
+            "id": "f3723c48c11419d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "101c4903c5e1d175",
+    "id": "c2bdf119dbd76041",
     "type": "split",
     "children": [
       {
-        "id": "feac740ba3748cab",
+        "id": "07f93891fa412951",
         "type": "tabs",
         "children": [
           {
-            "id": "c187204176aea413",
+            "id": "c6766e9524cf5ced",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH232/Special Subspaces.md",
+                "file": "MATH232/Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Special Subspaces"
+              "title": "Backlinks for Mapping"
             }
           },
           {
-            "id": "8dab2beeceb88810",
+            "id": "cdd59820249c9aed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH232/Special Subspaces.md",
+                "file": "MATH232/Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Special Subspaces"
+              "title": "Outgoing links from Mapping"
             }
           },
           {
-            "id": "a8a4b2e73ff30adf",
+            "id": "83231f1c63983ede",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,7 +137,7 @@
             }
           },
           {
-            "id": "656c33ab49729ee3",
+            "id": "b6e437320c2d7e12",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,18 +151,18 @@
             }
           },
           {
-            "id": "86e9d15af747f802",
+            "id": "2b52ba0a11551f00",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH232/Special Subspaces.md",
+                "file": "MATH232/Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Special Subspaces"
+              "title": "Outline of Mapping"
             }
           }
         ]
@@ -226,23 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa38db806cb2725d",
+  "active": "e70d7bb6e8d13eeb",
   "lastOpenFiles": [
-    "MATH232/Linear Systems.md",
-    "MATH232/Basic Vector Operations.md",
-    "MATH232/Basis.md",
-    "MATH232/Homogeneous Systems.md",
     "MATH232/Linear Independence.md",
+    "MATH232/Inverses.md",
+    "MATH232/Linear Systems.md",
     "MATH232/Span & Subspace.md",
-    "MATH232/Projection & Perpendicular.md",
     "MATH232/RREF.md",
-    "MATH232/Subspace.md",
+    "MATH232/Welcome.md",
+    "MATH232/Transpose.md",
+    "MATH232/Basic Vector Operations.md",
     "MATH232/Mapping.md",
-    "MATH232/Matrix Multiplication.md",
-    "MATH232/Reflections.md",
     "MATH232/Special Subspaces.md",
-    "MATH232/Table of Contents.md",
+    "MATH232/Projection & Perpendicular.md",
+    "MATH232/Homogeneous Systems.md",
+    "MATH232/Basis.md",
+    "MATH232/Reflections.md",
     "MATH232/Normal Vector.md",
-    "MATH232/Welcome.md"
+    "README.md",
+    "MATH232/Matrix Multiplication.md",
+    "MATH232/Table of Contents.md",
+    "MATH232/Projection.md"
   ]
 }
