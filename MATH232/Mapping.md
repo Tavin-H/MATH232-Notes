@@ -3,7 +3,7 @@ let A be an $n$ x $m$ matrix,
 $$
 f_{A}: \vec{x} \rightarrow A\vec{x}
 $$
-*Example 1.1*
+*Example 1.1:*
 $$
 \begin{align}
 A=\begin{bmatrix}
