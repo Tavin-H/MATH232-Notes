@@ -1,8 +1,15 @@
 To cover:
 - Adding
 - Subtracting
-- Dot product
 - Scalar Multiplication
+- Properties of the above operations (sec 1.1)
+- norm
+- distance
+- Dot product 
+- Properties of dot product
+- angle between two vectors
+- orthogonality
+- Cauchy-Schwarz Inequality and the Triangle Inequality
 - Line passing through given point with given vector
 - Line passing between 2 points - related to above
 

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e70d7bb6e8d13eeb",
+            "id": "8c1abd7b7b64a07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH232/Matrix Multiplication.md",
+                "file": "MATH232/Basic Vocabulary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Multiplication"
+              "title": "Basic Vocabulary"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH232/Matrix Multiplication.md",
+                "file": "MATH232/RREF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matrix Multiplication"
+              "title": "Backlinks for RREF"
             }
           },
           {
@@ -183,25 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "e70d7bb6e8d13eeb",
+  "active": "8c1abd7b7b64a07f",
   "lastOpenFiles": [
+    "MATH232/Basis.md",
+    "MATH232/Closure Properties.md",
+    "MATH232/Homogeneous Systems.md",
     "MATH232/Inverses.md",
+    "MATH232/Linear Combination.md",
     "MATH232/Linear Independence.md",
+    "MATH232/Linear Systems.md",
+    "MATH232/Lines and Planes.md",
+    "MATH232/Mapping.md",
+    "MATH232/Matrix Multiplication.md",
+    "MATH232/Normal Vector.md",
     "MATH232/Projection & Perpendicular.md",
     "MATH232/Reflections.md",
-    "MATH232/Normal Vector.md",
-    "MATH232/Matrix Multiplication.md",
-    "MATH232/Mapping.md",
-    "MATH232/Special Subspaces.md",
-    "MATH232/Homogeneous Systems.md",
     "MATH232/RREF.md",
-    "MATH232/Span & Subspace.md",
-    "MATH232/Transpose.md",
+    "MATH232/Span.md",
     "MATH232/Table of Contents.md",
-    "MATH232/Basic Vector Operations.md",
-    "MATH232/Basis.md",
-    "MATH232/Linear Systems.md",
+    "MATH232/Subspace.md",
+    "MATH232/Special Subspaces.md",
+    "MATH232/Transpose.md",
     "MATH232/Welcome.md",
+    "MATH232/Basic Vocabulary.md",
+    "MATH232/Basic Vector Operations.md",
     "README.md",
     "MATH232/Projection.md"
   ]

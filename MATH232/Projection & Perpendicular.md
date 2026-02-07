@@ -48,7 +48,7 @@ plane: -4x_{1} + x_{2} - 3x_{3} =  0
 \end{align}
 $$
 We can find the shortest distance between a point and a plane like so:
-1. find vector between some test point $Q$ <u>on the plane</u> and the given point $P$.
+1. Find vector between some test point $Q$ <u>on the plane</u> and the given point $P$.
 $$
 \begin{align}
 
@@ -65,7 +65,7 @@ Q = (-2, 1, 2) \\
 -4\end{bmatrix}
 \end{align}
 $$
-2. find normal vector of the plane (please refer to [[Normal Vector]] to do this)
+2. Find normal vector of the plane (please refer to [[Normal Vector]] to do this)
 $$
 \begin{align}
 

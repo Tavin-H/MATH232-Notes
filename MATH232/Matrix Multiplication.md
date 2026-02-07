@@ -21,7 +21,7 @@ cw+dy & cx+dz\\
 \end{align}
 $$
 <u><big>Properties</big></u>
-Note that matrix muliplication only works if the number of columns in $A$ matches the number of rows in $B$. Because of this fact, matrix multiplication does not commute, meaning the product $AB$ is not necessarily the same as the product $BA$.
+Note that matrix multiplication only works if the number of columns in $A$ matches the number of rows in $B$. Because of this fact, matrix multiplication does not commute, meaning the product $AB$ is not necessarily the same as the product $BA$.
 
 *Example 2:*
 $$

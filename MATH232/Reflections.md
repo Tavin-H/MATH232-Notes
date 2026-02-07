@@ -31,10 +31,10 @@ $$
 \end{align}
 $$
 This may simplify the calculation or make it easier to remember
-see [[Projection & Perpendicular]] to calculate Proj<sub>n</sub>(x)
+see [[Projection & Perpendicular]] to calculate $Proj_{\vec{n}}(\vec{x})$
 
 <big>Method 1.5 </big>
-This is a simplification of Method 1. However, in my opinion it's a bit harder to memorize:
+This is a simplification of Method 1; However, in my opinion it's a bit harder to memorize:
 $$
 \begin{align}
 line = ax_{1}+bx_{2}  \\ \\
@@ -46,9 +46,9 @@ b^2-a^2 & -2ab \\
 \end{align}
 $$
 
-<big>Method 2. </big>
+<big>Method 2 </big>
 "Reflection across an angle"
-if an angle in radians is given then you can use the standard 2x2 rotation matrix:
+if an angle in radians is given then you can use the standard 2 x 2 rotation matrix:
 $$
 Ref(x) = x\begin{bmatrix}
 \cos 2\theta & \sin 2\theta \\

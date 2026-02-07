@@ -1,0 +1,1 @@
+short note about linear combination with a good amount of examples

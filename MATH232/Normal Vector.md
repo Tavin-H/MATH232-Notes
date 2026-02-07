@@ -1,3 +1,4 @@
+- mention [[Lines and Planes]] to clarify where the equations are coming from
 Normal Vector of a Line:
 Use the coefficients of the variables to form a vector:
 $$

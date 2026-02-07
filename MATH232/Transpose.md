@@ -30,4 +30,4 @@ $$
 <big><u>Some Extra Info</u></big>
 $(A^T)^T = A$ 
 
-if $A^T = A$, then $A$ is symmetric
+if $A^T = A$, then $A$ is symmetric (link to wherever symmetry is explained)

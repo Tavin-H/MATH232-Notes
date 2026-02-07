@@ -1,1 +1,4 @@
-- Maybe should be included in Basis?
+- Maybe should be included in Basis? no
+- how to check for linear independance
+- theorem from sec 1.2 about dependant vectors
+- plus the geometric interpretations of the above theorem
