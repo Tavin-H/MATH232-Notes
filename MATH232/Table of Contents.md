@@ -1,5 +1,5 @@
 <big>Section 1:</big>
-- [[Basic Vocabulary]] (not started)
+- [[Basic Vocabulary]] (done)
 - [[Basic Vector Operations]] (not done)
 - [[Linear Combination]] (not started)
 - [[Lines and Planes]] (not started)
